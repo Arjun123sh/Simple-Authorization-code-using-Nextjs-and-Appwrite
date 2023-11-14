@@ -8,12 +8,10 @@ This long video was designed to give you an indepth understanding about latest n
 - mongodb
 - mailtrap
 
-![Course Image](./6.png)
-
 ---
-Available on my youtube channel
-[Youtube channel link](https://www.youtube.com/@HiteshChoudharydotcom)
-
+Available on freecodecamp youtube channel
+[[Youtube channel link](https://www.youtube.com/@HiteshChoudharydotcom)
+](https://www.youtube.com/watch?v=ETV17M4SauU&t=9925s)
 ## Getting Started
 
 First, run the development server:
