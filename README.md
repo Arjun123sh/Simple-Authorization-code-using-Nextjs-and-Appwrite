@@ -5,8 +5,7 @@ This long video was designed to give you an indepth understanding about latest n
 ## Tech Stack
 - Nextjs
 - typescript
-- mongodb
-- mailtrap
+- appwrite
 
 ---
 Available on freecodecamp youtube channel
