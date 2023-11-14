@@ -23,14 +23,3 @@ yarn dev
 # or
 pnpm dev
 ```
-## Assignment
-1. Improve the UI of the application
-2. Add a new feature to the application
----
-## your completed assignments
-
-- Add your repo link here
-- 
-
-
----
